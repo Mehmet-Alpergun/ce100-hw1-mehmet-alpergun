@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 /**
  * @file ce100-hw1-algo-lib-cs
- * @author Ugur CORUH
+ * @author Mehmet ALPERGUN
  * @date 14 March 2022
  *
  * @brief <b> HW-1 Functions </b>
